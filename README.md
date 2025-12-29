@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Cyb3rfake</h1> -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+junior+python+developer)](https://git.io/typing-svg) -->
-<h1 allign="cebter">Hi,+I'm+learning+data+science+at+SENATOROVAI)]</h1>
+<h1 allign="cebter">Hi,+I'm learning data science at SENATOROVAI)]</h1>
 <!-- <h3 align="center">I'm junior DS-engineer</h3> -->
 
 
