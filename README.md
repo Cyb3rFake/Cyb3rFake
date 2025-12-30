@@ -45,7 +45,7 @@
   <!-- Kaggle -->
   <a href="https://www.kaggle.com/fedorkrasavin" target="_blank">
     <img align="center"
-         src="https://www.kaggle.com/static/images/site-logo.svg"
+         src="https://www.kaggle.com/static/images/favicon.ico"
          alt="Kaggle"
          height="30"
          width="40" />
