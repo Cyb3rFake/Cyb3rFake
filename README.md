@@ -57,7 +57,7 @@
          src="https://stepik.org/static/classic/ico/favicon.svg"
          alt="Stepik"
          height="30"
-         width="40" />
+         width="30" />
   </a>
 
   <!-- civitai -->
@@ -66,7 +66,7 @@
          src="https://civitai.com/favicon-blue.ico"
          alt="civitai"
          height="30"
-         width="40" />
+         width="30" />
   </a>
 
   <!-- huggingface -->
@@ -75,7 +75,7 @@
          src="https://huggingface.co/favicon.ico"
          alt="huggingface"
          height="30"
-         width="40" />
+         width="30" />
   </a>
   
 </p>
