@@ -1,0 +1,77 @@
+<h1 align="center">Hi, I'm Cyb3rFake 👋</h1>
+
+<h3 align="center">ML / Data Science engineer in training @SENATOROVAI</h3>
+
+---
+
+### 👨‍💻 About me
+
+- Learning **machine learning, deep learning and MLOps** at SENATOROVAI  
+- Building small end‑to‑end projects: from data preprocessing to deployment  
+- Interested in LLMs, AI‑assisted automation and production‑ready ML services  
+
+---
+
+### 🌐 Profiles
+
+<p align="left">
+  <a href="https://www.hackerrank.com/cyb3rfake" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+         alt="cyb3rfake"
+         height="30"
+         width="40" />
+  </a>
+  <!--
+  <a href="https://www.codewars.com/users/Cyb3rFake" target="_blank">
+    <img align="center"
+         src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"
+         alt="Cyb3rFake Codewars"
+         height="30"
+         width="40" />
+  </a>
+  -->
+</p>
+
+---
+
+### 🧠 Tech stack
+
+**Core:**  
+Python • Linux • Bash • Git • Docker • SQL/NoSQL • REST APIs  
+
+**ML & Data:**  
+Pandas • NumPy • Scikit‑learn • (in progress: PyTorch / TensorFlow, MLflow)  
+
+**Backend & Tools:**  
+Django • Flask • FastAPI (learning) • Postman • Jenkins • Selenium  
+
+**Databases:**  
+MySQL • PostgreSQL • MariaDB • SQLite • MongoDB • MS SQL  
+
+**Other:**  
+HTML • CSS • Qt • Photoshop  
+
+---
+
+### 📂 What you’ll find here
+
+- Practice projects from **data science / ML courses and self‑study**
+- Experiments with **automation, testing and small web services**
+- Drafts for future **ML, LLM and MLOps pet‑projects**
+
+---
+
+### 📊 GitHub stats
+
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=cyb3rfake&show_icons=true&locale=en&layout=compact"
+       alt="cyb3rfake top languages" />
+</p>
+
+<p>&nbsp;
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=cyb3rfake&show_icons=true&locale=en"
+       alt="cyb3rfake stats" />
+</p>
