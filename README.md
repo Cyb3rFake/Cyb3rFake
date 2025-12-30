@@ -78,7 +78,8 @@ Django • Flask • FastAPI (learning) • Postman • Jenkins • Selenium
 MySQL • PostgreSQL • MariaDB • SQLite • MongoDB • MS SQL  
 
 **Other:**  
-HTML • CSS • Qt • Photoshop  
+Linux system administration • Shell scripting • Nginx/Apache basics • CI/CD (GitHub Actions, Jenkins) • DevOps practices (monitoring, backups, logs) • Virtualization/containers (Docker, KVM) • Configuration & environment automation  
+
 
 ---
 
