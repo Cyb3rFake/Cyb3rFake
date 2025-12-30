@@ -59,6 +59,25 @@
          height="30"
          width="40" />
   </a>
+
+  <!-- civitai -->
+  <a href="https://civitai.com/user/nevergreen17871" target="_blank">
+    <img align="center"
+         src="https://civitai.com/favicon-blue.ico"
+         alt="civitai"
+         height="30"
+         width="40" />
+  </a>
+
+  <!-- huggingface -->
+  <a href="https://huggingface.com/Cyb3Fake" target="_blank">
+    <img align="center"
+         src="https://huggingface.co/favicon.ico"
+         alt="huggingface"
+         height="30"
+         width="40" />
+  </a>
+  
 </p>
 
 ---
