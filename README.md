@@ -90,17 +90,3 @@ Linux system administration • Shell scripting • Nginx/Apache basics • CI/C
 - Drafts for future **ML, LLM and MLOps pet‑projects**
 
 ---
-
-### 📊 GitHub stats
-
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=cyb3rfake&show_icons=true&locale=en&layout=compact"
-       alt="cyb3rfake top languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=cyb3rfake&show_icons=true&locale=en"
-       alt="cyb3rfake stats" />
-</p>
