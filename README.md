@@ -54,7 +54,7 @@
   <!-- Stepik -->
   <a href="https://stepik.org/users/48908257" target="_blank">
     <img align="center"
-         src="https://stepik.org/static/frontend/common/apple-touch-icon-57x57.8f9d3e2f7e2d.png"
+         src="https://stepik.org/static/classic/ico/favicon.svg"
          alt="Stepik"
          height="30"
          width="40" />
