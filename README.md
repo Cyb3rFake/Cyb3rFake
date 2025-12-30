@@ -15,22 +15,50 @@
 ### 🌐 Profiles
 
 <p align="left">
+  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/cyb3rfake" target="_blank">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-         alt="cyb3rfake"
+         alt="HackerRank"
          height="30"
          width="40" />
   </a>
-  <!--
+
+  <!-- Codewars -->
   <a href="https://www.codewars.com/users/Cyb3rFake" target="_blank">
     <img align="center"
          src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"
-         alt="Cyb3rFake Codewars"
+         alt="Codewars"
          height="30"
          width="40" />
   </a>
-  -->
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/Cyb3rFake/" target="_blank">
+    <img align="center"
+         src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"
+         alt="LeetCode"
+         height="30"
+         width="40" />
+  </a>
+
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/fedorkrasavin" target="_blank">
+    <img align="center"
+         src="https://www.kaggle.com/static/images/site-logo.svg"
+         alt="Kaggle"
+         height="30"
+         width="40" />
+  </a>
+
+  <!-- Stepik -->
+  <a href="https://stepik.org/users/48908257" target="_blank">
+    <img align="center"
+         src="https://stepik.org/static/frontend/common/apple-touch-icon-57x57.8f9d3e2f7e2d.png"
+         alt="Stepik"
+         height="30"
+         width="40" />
+  </a>
 </p>
 
 ---
