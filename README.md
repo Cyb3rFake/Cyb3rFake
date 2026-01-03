@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About me
 
-- Learning **machine learning, deep learning and MLOps** at SENATOROVAI  
+- Learning **machine learning, deep learning and MLOps**
 - Building small end‑to‑end projects: from data preprocessing to deployment  
 - Interested in LLMs, AI‑assisted automation and production‑ready ML services  
 
