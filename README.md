@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Cyb3rFake 👋</h1> 
-<p align="center"> Aspiring <b>ML / MLOps Engineer</b> with a strong backend & DevOps background </p>
+<p align="center"> Aspiring <b>ML / MLOps Engineer</b> with a DevOps background </p>
 
 ---
 
