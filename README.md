@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Cyb3rFake 👋</h1>
-
-<h3 align="center">ML / Data Science engineer in training @SENATOROVAI</h3>
+<h1 align="center">Hi, I'm Cyb3rFake 👋</h1> 
+<p align="center"> Aspiring <b>ML / MLOps Engineer</b> with a strong backend & DevOps background </p>
 
 ---
 
